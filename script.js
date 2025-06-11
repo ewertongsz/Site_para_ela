@@ -36,7 +36,7 @@ function adivinhar() {
     },
     {
         pergunta: "Quantos anos e meses estamos juntos?",
-        opcoes: ["2 anos e 2 meses", "2 anos e 5 meses", "2 anos e 6 meses", "2 anos e 3 meses"],
+        opcoes: ["2 anos e 2 meses", "2 anos e 4 meses", "2 anos e 5 meses", "2 anos e 3 meses"],
         resposta: "2 anos e 5 meses" 
     }
 ];
